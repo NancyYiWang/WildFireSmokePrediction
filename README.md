@@ -14,3 +14,10 @@ Data Source: <br><br>
 
 >Wildfire Data: NBAC <br>
 >>Metadata please refer to: https://github.com/NancyYiWang/WildFireSmokePrediction/blob/main/nbac_1972_2023_20240530_shp_metadata.pdf<br><br>
+
+
+>Terrain Data covers the broad Calgary area.<br>
+>>North: 52.5<br>
+>>South: 49.5<br>
+>>West: -116.0<br>
+>>East: -112.0<br><br>
