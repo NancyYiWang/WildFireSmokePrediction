@@ -4,6 +4,7 @@
 data source: <br>
 
 >NOAA GEOS R (2024.1.1-2024.1.10) <br>
+>>Metadata please refer to: <br>
 >NOAA Climate (2024) <br>
 >>vwnd: Refers to the vertical (V) component of wind velocity, typically representing the north-south wind direction. <br>
 >>uwnd: Refers to the horizontal (U) component of wind velocity, representing the east-west wind direction. <br>
