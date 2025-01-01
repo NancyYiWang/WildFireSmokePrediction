@@ -3,7 +3,6 @@
 Data Source: <br><br>
 
 >NOAA GEOS R (2024.1.1-2024.1.10) <br>
->>Metadata please refer to: https://github.com/NancyYiWang/WildFireSmokePrediction/blob/main/nbac_1972_2023_20240530_shp_metadata.pdf<br><br>
 
 >NOAA Climate (2024) <br>
 >>vwnd: Refers to the vertical (V) component of wind velocity, typically representing the north-south wind direction. <br>
@@ -12,3 +11,6 @@ Data Source: <br><br>
 >>omega: Refers to vertical velocity in pressure coordinates, typically measured in Pascals per second (Pa/s). <br>
 >>hgt: Refers to geopotential height, which is the height of a pressure surface in the atmosphere, usually measured in meters. <br>
 >>air: Refers to air temperature. <br>
+
+>Wildfire Data: NBAC <br><br>
+>>Metadata please refer to: https://github.com/NancyYiWang/WildFireSmokePrediction/blob/main/nbac_1972_2023_20240530_shp_metadata.pdf<br><br>
