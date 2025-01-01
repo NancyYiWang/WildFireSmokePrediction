@@ -1,10 +1,10 @@
-# WildFireSmokePrediction
+# WildFireSmokePrediction<br><br>
 
-
-data source: <br>
+Data Source: <br><br>
 
 >NOAA GEOS R (2024.1.1-2024.1.10) <br>
->>Metadata please refer to: <br>
+>>Metadata please refer to: https://github.com/NancyYiWang/WildFireSmokePrediction/blob/main/nbac_1972_2023_20240530_shp_metadata.pdf<br><br>
+
 >NOAA Climate (2024) <br>
 >>vwnd: Refers to the vertical (V) component of wind velocity, typically representing the north-south wind direction. <br>
 >>uwnd: Refers to the horizontal (U) component of wind velocity, representing the east-west wind direction. <br>
