@@ -2,7 +2,7 @@
 
 Data Source: <br><br>
 
->NOAA GOES R (2024.1.1-2024.1.10) <br><br>
+>NOAA GOES-R Series ABI L2+ Enterprise Products (GRABINDE) <br><br>
 
 >NOAA Climate (2024) <br>
 >>vwnd: Refers to the vertical (V) component of wind velocity, typically representing the north-south wind direction. <br>
