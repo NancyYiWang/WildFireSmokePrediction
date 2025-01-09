@@ -2,7 +2,10 @@
 
 Data Source: <br><br>
 
->NOAA GOES-R Series ABI L2+ Enterprise Products (GRABINDE) <br><br>
+>NOAA GOES-R Series ABI L2+ Enterprise Products (GRABINDE) <br>
+>>20240601 00:00 to 20240601 23:59<br>
+>>G18<br>
+>>CONUS<br>
 
 >NOAA Climate (2024) <br>
 >>vwnd: Refers to the vertical (V) component of wind velocity, typically representing the north-south wind direction. <br>
@@ -13,11 +16,10 @@ Data Source: <br><br>
 >>air: Refers to air temperature. <br>
 
 >Wildfire Data: NBAC <br>
->>For metadata please refer to: https://github.com/NancyYiWang/WildFireSmokePrediction/blob/main/nbac_1972_2023_20240530_shp_metadata.pdf<br><br>
-
+>>For metadata please refer to: https://github.com/NancyYiWang/WildFireSmokePrediction/blob/main/nbac_1972_2023_20240530_shp_metadata.pdf<br>
 
 >Terrain Data covers the broad Calgary area.<br>
 >>North: 52.5<br>
 >>South: 49.5<br>
 >>West: -116.0<br>
->>East: -112.0<br><br>
+>>East: -112.0<br>
