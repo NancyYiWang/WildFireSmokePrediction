@@ -16,7 +16,7 @@ Data Source: <br><br>
 >>air: Refers to air temperature. <br>
 
 >Wildfire Data: NBAC <br>
->>For metadata please refer to: https://github.com/NancyYiWang/WildFireSmokePrediction/blob/main/nbac_1972_2023_20240530_shp_metadata.pdf<br>
+>>For metadata please refer to: https://drive.google.com/file/d/1elivEl_spDxk6mCJRJOyDrKPOZbgWJd6/view?usp=drive_link<br>
 
 >Terrain Data covers the broad Calgary area.<br>
 >>North: 52.5<br>
