@@ -16,9 +16,9 @@ Data Source: <br><br>
 >>air: Refers to air temperature. <br>
 
 >Wildfire Data: NBAC <br>
->>Data source: https://cwfis.cfs.nrcan.gc.ca/downloads/nbac/
->>Download data: https://drive.google.com/drive/folders/1JzuStIvDS2ImCT89C2kf7N9Vf6fvc1W3?usp=drive_link
->>For metadata please refer to: https://drive.google.com/file/d/1elivEl_spDxk6mCJRJOyDrKPOZbgWJd6/view?usp=drive_link<br>
+>>Data source: https://cwfis.cfs.nrcan.gc.ca/downloads/nbac/<br>
+>>Download data: <br>
+>>For metadata please refer to: 
 
 >Terrain Data covers the broad Calgary area.<br>
 >>North: 52.5<br>
